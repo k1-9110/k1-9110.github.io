@@ -3,3 +3,5 @@ Well, for many reasons, but the main one is becuase I want to have a simple webs
 
 # Why use GitHub instead of another source?
 Because I'm too poor to purchase my own domain for anything similar to this. I don't want to spend any money.
+
+THIS IS THE FALLBACK IN CASE THE WEBSITE BREAKS. IF THIS OCCURS, THE WEBSITE WILL REFER TO SHOWING THIS.
